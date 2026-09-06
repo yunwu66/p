@@ -1,0 +1,528 @@
+
+[desktop] starting 2026-08-18T05:36:04.009Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:58338
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:58338
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (signal SIGTERM)
+
+[desktop] starting 2026-08-18T05:49:29.542Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:63638
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:63638
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (signal SIGTERM)
+
+[desktop] starting 2026-08-18T05:55:50.781Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:53644
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:53644
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (exit code 4294967295 (0xFFFFFFFF))
+
+[desktop] starting 2026-08-18T06:09:57.168Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:51909
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:51909
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (exit code 4294967295 (0xFFFFFFFF))
+
+[desktop] starting 2026-08-18T06:13:45.865Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:49672
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:49672
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (signal SIGTERM)
+
+[desktop] starting 2026-08-24T17:08:50.406Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:60873
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:60873
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (signal SIGTERM)
+
+[desktop] starting 2026-08-24T17:32:53.776Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:63340
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:63340
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (signal SIGTERM)
+
+[desktop] starting 2026-08-24T17:34:34.414Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:53488
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:53488
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (signal SIGTERM)
+
+[desktop] starting 2026-08-29T14:25:35.487Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:58114
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:58114
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (signal SIGTERM)
+
+[desktop] starting 2026-08-29T14:31:58.587Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:60294
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:60294
+[stdout] [harness-node] DSH entry loaded
+
+[desktop] starting 2026-08-29T14:32:09.861Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] endpoint http://127.0.0.1:51938
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh web: http://127.0.0.1:51938
+[stdout] [harness-node] DSH entry loaded
+[desktop] pinned the profile's pnpm store: C:\\Users\\tbdyu\\AppData\\Local\\pnpm\\store\
+[desktop] migration: moving 4 plugin(s) to generations: @linxin666/dsh-chat-recovery, @linxin666/dsh-client-ui-skill-explorer, @linxin666/dsh-web-ui-all, @liustack/modlens
+[desktop] generation-install: installing ^0.3.3 into staging
+[desktop] generation-install: pnpm exited 1 after 300186ms
+[desktop] generation-install: output| Progress: resolved 1, reused 0, downloaded 0, added 0
+[desktop] generation-install: output| Progress: resolved 2, reused 0, downloaded 0, added 0
+[desktop] generation-install: output| WARN  Request took 34711ms: https://registry.npmjs.org/react
+[desktop] generation-install: output| Progress: resolved 3, reused 0, downloaded 0, added 0
+[desktop] generation-install: output| Progress: resolved 4, reused 0, downloaded 0, added 0
+[desktop] migration failed, restoring the pre-upgrade profile: could not stage @linxin666/dsh-chat-recovery: Progress: resolved 4, reused 0, downloaded 0, added 0
+[desktop] repairing profile: the last install did not finish
+[desktop] profile repair completed
+
+[desktop] starting 2026-08-29T14:46:15.588Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile web
+[desktop] endpoint http://127.0.0.1:56747
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stdout] dsh web: http://127.0.0.1:56747/?token=LIlcPREKDHQDDHW5-krrPWVRbO-G2iuIYPMixWDSLug
+[stdout] [harness-node] DSH entry loaded
+[node] Harness process exited (exit code 1073807364 (0x40010004))
+[desktop] projected generations: 1 linked, 0 unlinked
+[desktop] migration: moving 4 plugin(s) to generations: @linxin666/dsh-client-ui-skill-explorer, @linxin666/dsh-web-ui-all, @liustack/modlens, @linxin666/dsh-chat-recovery
+[desktop] generation-install: installing ^0.3.3 into staging
+[desktop] generation-install: installed in 11400ms
+[desktop] generation-install: hoisted 1 host singletons: react…
+[desktop] generation-install: promoted to linxin666+dsh-client-ui-skill-explorer+0.3.3+da4e82ca7388
+[desktop] migration failed, restoring the pre-upgrade profile: @linxin666/dsh-client-ui-skill-explorer failed peer validation: react resolves outside the installation closure: D:\deepseek\deep\DSH Desktop\resources\app\node_modules\react\index.js
+[desktop] repairing profile: the last install did not finish
+[desktop] profile repair completed
+
+[desktop] starting 2026-08-30T08:22:47.979Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile web
+[desktop] endpoint http://127.0.0.1:59702
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[desktop] waiting for Harness (10s)
+[stderr] [harness-node] DSH entry failed: Error: dsh: plugin tree failed to load: failed to apply loader entry include (cordis:include): failed to import loader entry web-ui-remote-web-ui (@linxin666/dsh-remote-web-ui): Cannot find package '@deepseek-ai/dsh-host-apiproxy' imported from C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\profiles\web\node_modules\@linxin666\dsh-remote-web-ui\lib\index.js
+[stderr] Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@deepseek-ai/dsh-host-apiproxy' imported from C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\profiles\web\node_modules\@linxin666\dsh-remote-web-ui\lib\index.js
+[stderr]     at Object.getPackageJSONURL (node:internal/modules/package_json_reader:316:9)
+[stderr]     at packageResolve (node:internal/modules/esm/resolve:768:81)
+[stderr]     at moduleResolve (node:internal/modules/esm/resolve:858:18)
+[stderr]     at defaultResolve (node:internal/modules/esm/resolve:990:11)
+[stderr]     at #cachedDefaultResolve (node:internal/modules/esm/loader:755:20)
+[stderr]     at ModuleLoader.resolve (node:internal/modules/esm/loader:732:38)
+[stderr]     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:317:38)
+[stderr]     at #link (node:internal/modules/esm/module_job:208:49)
+[stderr]     at boot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-app-boot/lib/index.js:1512:9)
+[stderr]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[stderr]     at async runProfile (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/profile-boot-BTzzdrGY.js:261:14)
+[stderr]     at async file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/bin.js:130:3
+[desktop] Harness entry failed during startup; stopping immediately
+[desktop] plugin recovery detection: @linxin666/dsh-web-ui-all
+[node] Harness process exited (signal SIGTERM)
+[desktop] a new plugin set failed to boot; rolled back to the last working set (0 generation(s))
+
+[desktop] starting 2026-08-30T08:23:03.844Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile web
+[desktop] endpoint http://127.0.0.1:58989
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[desktop] waiting for Harness (10s)
+[stderr] [harness-node] DSH entry failed: Error: dsh: plugin tree failed to load: failed to apply loader entry include (cordis:include): failed to import loader entry web-ui-remote-web-ui (@linxin666/dsh-remote-web-ui): Cannot find package '@deepseek-ai/dsh-host-apiproxy' imported from C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\profiles\web\node_modules\@linxin666\dsh-remote-web-ui\lib\index.js
+[stderr] Error [ERR_MODULE_NOT_FOUND]: Cannot find package '@deepseek-ai/dsh-host-apiproxy' imported from C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\profiles\web\node_modules\@linxin666\dsh-remote-web-ui\lib\index.js
+[stderr]     at Object.getPackageJSONURL (node:internal/modules/package_json_reader:316:9)
+[stderr]     at packageResolve (node:internal/modules/esm/resolve:768:81)
+[stderr]     at moduleResolve (node:internal/modules/esm/resolve:858:18)
+[stderr]     at defaultResolve (node:internal/modules/esm/resolve:990:11)
+[stderr]     at #cachedDefaultResolve (node:internal/modules/esm/loader:755:20)
+[stderr]     at ModuleLoader.resolve (node:internal/modules/esm/loader:732:38)
+[stderr]     at ModuleLoader.getModuleJobForImport (node:internal/modules/esm/loader:317:38)
+[stderr]     at #link (node:internal/modules/esm/module_job:208:49)
+[stderr]     at boot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-app-boot/lib/index.js:1512:9)
+[stderr]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[stderr]     at async runProfile (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/profile-boot-BTzzdrGY.js:261:14)
+[stderr]     at async file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/bin.js:130:3
+[desktop] Harness entry failed during startup; stopping immediately
+[node] Harness process exited (signal SIGTERM)
+[desktop] plugin recovery detection: unresolved
+[desktop] safe mode: third-party web profile bundles are blocked
+
+[desktop] starting 2026-08-30T08:23:55.133Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile desktop-safe-mode
+[desktop] endpoint http://127.0.0.1:50303
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stdout] dsh web: http://127.0.0.1:50303/?token=bAyecciUilVznxmL_0b5UVMW3Okgupatgf1-jkIRHj4
+[stdout] [harness-node] DSH entry loaded
+[desktop] cleared 1 stale Harness authentication cookie(s)
+[node] Harness process exited (signal SIGTERM)
+[desktop] safe mode: third-party web profile bundles are blocked
+
+[desktop] starting 2026-08-30T08:27:20.037Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile desktop-safe-mode
+[desktop] endpoint http://127.0.0.1:58823
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[node] Harness process exited (signal SIGTERM)
+[desktop] swept 2 unreferenced plugin generation(s)
+[desktop] migration: moving 2 plugin(s) to generations: @linxin666/dsh-client-ui-skill-explorer, @liustack/modlens
+[desktop] generation-install: installing ^0.3.3 into staging
+[desktop] generation-install: installed in 8791ms
+[desktop] generation-install: hoisted 1 host singletons: react…
+[desktop] generation-install: promoted to linxin666+dsh-client-ui-skill-explorer+0.3.3+da4e82ca7388
+[desktop] migration failed, restoring the pre-upgrade profile: @linxin666/dsh-client-ui-skill-explorer failed peer validation: react resolves outside the installation closure: D:\deepseek\deep\DSH Desktop\resources\app\node_modules\react\index.js
+[desktop] repairing profile: the last install did not finish
+[desktop] profile repair completed
+
+[desktop] starting 2026-08-30T08:33:13.272Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile web
+[desktop] endpoint http://127.0.0.1:49178
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stdout] dsh web: http://127.0.0.1:49178/?token=YjPo4dmIWRLwAGQ_q2B-CyV5kRTFBFxgdGf0nnxKuUk
+[stdout] [harness-node] DSH entry loaded
+[desktop] cleared 1 stale Harness authentication cookie(s)
+[node] Harness process exited (signal SIGTERM)
+[desktop] swept 1 unreferenced plugin generation(s)
+[desktop] migration deferred: this exact profile already failed preflight
+
+[desktop] starting 2026-08-31T16:10:34.131Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile web
+[desktop] endpoint http://127.0.0.1:59352
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stdout] dsh web: http://127.0.0.1:59352/?token=cijTFDRstR4a4xitVD995RV7bKJrx5r_-JTkrUTN32Q
+[stdout] [harness-node] DSH entry loaded
+[desktop] cleared 1 stale Harness authentication cookie(s)
+[node] Harness process exited (exit code 1073807364 (0x40010004))
+[desktop] plugin recovery detection: unresolved
+[desktop] migration deferred: this exact profile already failed preflight
+
+[desktop] starting 2026-09-01T07:15:41.317Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile web
+[desktop] endpoint http://127.0.0.1:65243
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stdout] dsh web: http://127.0.0.1:65243/?token=DfnJNyZ9PCtbaIb6e7fXYYdPIIM9U4aAuV9NkiSjS10
+[stdout] [harness-node] DSH entry loaded
+[desktop] cleared 1 stale Harness authentication cookie(s)
+[desktop] migration deferred: this exact profile already failed preflight
+
+[desktop] starting 2026-09-06T09:33:56.504Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile web
+[desktop] endpoint http://127.0.0.1:64861
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stderr] [harness-node] DSH entry failed: Error: dsh: plugin tree failed to load: failed to apply loader entry include (cordis:include): failed to apply loader entry spill-local (@deepseek-ai/dsh-spill-local): ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr] Error: ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr]     at mkdtempSync (node:fs:3039:18)
+[stderr]     at privateRoot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:35:18)
+[stderr]     at new LocalSpillStore (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:498:63)
+[stderr]     at Fiber.execute (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1067:24)
+[stderr]     at file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1141:34
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/web/#spill-local
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/web/#include
+[stderr]     at boot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-app-boot/lib/index.js:1512:9)
+[stderr]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[stderr]     at async runProfile (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/profile-boot-BTzzdrGY.js:261:14)
+[stderr]     at async file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/bin.js:130:3
+[desktop] Harness entry failed during startup; stopping immediately
+[desktop] plugin recovery detection: unresolved
+[node] Harness process exited (signal SIGTERM)
+[desktop] safe mode: third-party web profile bundles are blocked
+
+[desktop] starting 2026-09-06T09:34:18.868Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile desktop-safe-mode
+[desktop] endpoint http://127.0.0.1:64888
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stderr] [harness-node] DSH entry failed: Error: dsh: plugin tree failed to load: failed to apply loader entry include (cordis:include): failed to apply loader entry spill-local (@deepseek-ai/dsh-spill-local): ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr] Error: ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr]     at mkdtempSync (node:fs:3039:18)
+[stderr]     at privateRoot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:35:18)
+[stderr]     at new LocalSpillStore (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:498:63)
+[stderr]     at Fiber.execute (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1067:24)
+[stderr]     at file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1141:34
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/desktop-safe-mode/#spill-local
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/desktop-safe-mode/#include
+[stderr]     at boot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-app-boot/lib/index.js:1512:9)
+[stderr]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[stderr]     at async runProfile (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/profile-boot-BTzzdrGY.js:261:14)
+[stderr]     at async file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/bin.js:130:3
+[desktop] Harness entry failed during startup; stopping immediately
+[desktop] plugin recovery detection: unresolved
+[node] Harness process exited (signal SIGTERM)
+[desktop] safe mode: third-party web profile bundles are blocked
+
+[desktop] starting 2026-09-06T09:34:27.677Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile desktop-safe-mode
+[desktop] endpoint http://127.0.0.1:64908
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stderr] [harness-node] DSH entry failed: Error: dsh: plugin tree failed to load: failed to apply loader entry include (cordis:include): failed to apply loader entry spill-local (@deepseek-ai/dsh-spill-local): ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr] Error: ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr]     at mkdtempSync (node:fs:3039:18)
+[stderr]     at privateRoot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:35:18)
+[stderr]     at new LocalSpillStore (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:498:63)
+[stderr]     at Fiber.execute (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1067:24)
+[stderr]     at file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1141:34
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/desktop-safe-mode/#spill-local
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/desktop-safe-mode/#include
+[stderr]     at boot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-app-boot/lib/index.js:1512:9)
+[stderr]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[stderr]     at async runProfile (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/profile-boot-BTzzdrGY.js:261:14)
+[stderr]     at async file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/bin.js:130:3
+[desktop] Harness entry failed during startup; stopping immediately
+[desktop] plugin recovery detection: unresolved
+[node] Harness process exited (signal SIGTERM)
+[desktop] migration: moving 2 plugin(s) to generations: @linxin666/dsh-client-ui-skill-explorer, @liustack/modlens
+[desktop] generation-install: installing ^0.3.3 into staging
+[desktop] migration: moving 2 plugin(s) to generations: @linxin666/dsh-client-ui-skill-explorer, @liustack/modlens
+[desktop] generation-install: installing ^0.3.3 into staging
+[desktop] generation-install: pnpm exited 1 after 720048ms
+[desktop] migration failed, restoring the pre-upgrade profile: could not stage @linxin666/dsh-client-ui-skill-explorer: pnpm exited 1
+[desktop] profile maintenance frozen: migration deferred (could not stage @linxin666/dsh-client-ui-skill-explorer: pnpm exited 1)
+
+[desktop] starting 2026-09-06T09:58:08.130Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile web
+[desktop] endpoint http://127.0.0.1:61086
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stderr] [harness-node] DSH entry failed: Error: dsh: plugin tree failed to load: failed to apply loader entry include (cordis:include): failed to apply loader entry spill-local (@deepseek-ai/dsh-spill-local): ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr] Error: ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr]     at mkdtempSync (node:fs:3039:18)
+[stderr]     at privateRoot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:35:18)
+[stderr]     at new LocalSpillStore (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:498:63)
+[stderr]     at Fiber.execute (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1067:24)
+[stderr]     at file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1141:34
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/web/#spill-local
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/web/#include
+[stderr]     at boot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-app-boot/lib/index.js:1512:9)
+[stderr]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[stderr]     at async runProfile (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/profile-boot-BTzzdrGY.js:261:14)
+[stderr]     at async file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/bin.js:130:3
+[desktop] Harness entry failed during startup; stopping immediately
+[desktop] plugin recovery detection: unresolved
+[node] Harness process exited (signal SIGTERM)
+[desktop] safe mode: third-party web profile bundles are blocked
+
+[desktop] starting 2026-09-06T09:59:42.572Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile desktop-safe-mode
+[desktop] endpoint http://127.0.0.1:65005
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stderr] [harness-node] DSH entry failed: Error: dsh: plugin tree failed to load: failed to apply loader entry include (cordis:include): failed to apply loader entry spill-local (@deepseek-ai/dsh-spill-local): ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr] Error: ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr]     at mkdtempSync (node:fs:3039:18)
+[stderr]     at privateRoot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:35:18)
+[stderr]     at new LocalSpillStore (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:498:63)
+[stderr]     at Fiber.execute (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1067:24)
+[stderr]     at file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1141:34
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/desktop-safe-mode/#spill-local
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/desktop-safe-mode/#include
+[stderr]     at boot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-app-boot/lib/index.js:1512:9)
+[stderr]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[stderr]     at async runProfile (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/profile-boot-BTzzdrGY.js:261:14)
+[stderr]     at async file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/bin.js:130:3
+[desktop] Harness entry failed during startup; stopping immediately
+[desktop] plugin recovery detection: unresolved
+[node] Harness process exited (signal SIGTERM)
+[desktop] plugin recovery detection: unresolved
+[desktop] migration deferred: this exact profile already failed preflight
+[desktop] profile maintenance frozen: migration deferred (previously failed preflight for this exact fingerprint)
+
+[desktop] starting 2026-09-06T10:19:43.828Z
+[desktop] launch directory C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[desktop] profile web
+[desktop] endpoint http://127.0.0.1:49972
+[desktop] Bundled Node.js Harness process started
+[stdout] [harness-node] runtime node=v24.9.0 platform=win32 arch=x64
+[stdout] [harness-node] execPath=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\node\bin\node.exe
+[stdout] [harness-node] cwd=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\launch-root
+[stdout] [harness-node] DSH_HOME=C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness
+[stdout] [harness-node] windowsHide enforcement enabled for child processes
+[stdout] [harness-node] loading=D:\deepseek\deep\DSH Desktop\resources\app\node_modules\@deepseek-ai\dsh\lib\bin.js
+[stdout] dsh-desktop: pnpm shim written via C:\Users\tbdyu\AppData\Roaming\dsh-desktop\harness\.desktop-bin\pnpm-runner.mjs
+[stderr] [harness-node] DSH entry failed: Error: dsh: plugin tree failed to load: failed to apply loader entry include (cordis:include): failed to apply loader entry spill-local (@deepseek-ai/dsh-spill-local): ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr] Error: ENOENT: no such file or directory, mkdtemp 'E:\fps\Temp\dsh-spill-XXXXXX'
+[stderr]     at mkdtempSync (node:fs:3039:18)
+[stderr]     at privateRoot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:35:18)
+[stderr]     at new LocalSpillStore (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-spill-local/lib/index.js:498:63)
+[stderr]     at Fiber.execute (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1067:24)
+[stderr]     at file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/cordis/lib/index.js:1141:34
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/web/#spill-local
+[stderr]     at file:///C:/Users/tbdyu/AppData/Roaming/dsh-desktop/harness/profiles/web/#include
+[stderr]     at boot (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh-app-boot/lib/index.js:1512:9)
+[stderr]     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[stderr]     at async runProfile (file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/profile-boot-BTzzdrGY.js:261:14)
+[stderr]     at async file:///D:/deepseek/deep/DSH%20Desktop/resources/app/node_modules/@deepseek-ai/dsh/lib/bin.js:130:3
+[desktop] Harness entry failed during startup; stopping immediately
+[desktop] plugin recovery detection: unresolved
+[node] Harness process exited (signal SIGTERM)
+[desktop] plugin recovery detection: unresolved
+[desktop] plugin recovery detection: unresolved
+[desktop] plugin recovery detection: unresolved
+[desktop] plugin recovery detection: unresolved
